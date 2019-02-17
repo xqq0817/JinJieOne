@@ -1,0 +1,1 @@
+include ':app', ':frescodemo', ':daytwozuoye', ':eventbusdemo', ':simulationone', ':weekonel'
